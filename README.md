@@ -6,7 +6,7 @@
 </p>
 
 <br>
-<p>My aim is to build a simple, easy-to-use text editor.</p>
+<p>My aim is to build a simple text editor.</p>
 
 **Current Status:** In development <br>
 **Latest Version:** 0.0.1 <br>
