@@ -2,7 +2,7 @@
   <img align="center" src="https://github.com/michaelkolesidis/skinner/blob/main/skinner-logo.png">
 </p>
 <p align="center">
-  Old-school, simple text editor written in C++.
+  Old-school, simple text editor.
 </p>
 
 <br>
