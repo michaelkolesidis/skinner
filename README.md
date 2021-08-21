@@ -1,6 +1,12 @@
-<p align="center">
-  <img align="center" src="https://github.com/michaelkolesidis/skinner/blob/main/skinner-logo.png">
-</p>
+<pre align="center">
+     _____ _    _                       
+  / ____| |  (_)                      
+ | (___ | | ___ _ __  _ __   ___ _ __ 
+  \___ \| |/ / | '_ \| '_ \ / _ \ '__|
+  ____) |   <| | | | | | | |  __/ |   
+ |_____/|_|\_\_|_| |_|_| |_|\___|_|   
+                                                                           
+</pre>
 <p align="center">
   Old-school, simple text editor.
 </p>
