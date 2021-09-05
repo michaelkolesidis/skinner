@@ -9,8 +9,6 @@
 //
 //  Created by: Michael Kolesidis
 
-public class Skinner {
-}
 
 //  Under construction
 //  Check back soon!
