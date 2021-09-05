@@ -18,5 +18,4 @@
 **Latest Version:** 0.0.1 <br>
 <br>
 ### Roadmap:
-* Create a stable version of Skinner
 * Port Skinner to the web with WebAssembly.
