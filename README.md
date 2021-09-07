@@ -18,4 +18,6 @@
 **Latest Version:** 0.0.1 <br>
 <br>
 ### Roadmap:
+* Deliver a stable version of Skinner
+* Add syntax highlighting
 * Port Skinner to the web with WebAssembly.
