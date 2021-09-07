@@ -8,7 +8,7 @@
                                                                            
 </pre>
 <p align="center">
-  Old-school, simple text editor.
+  Simple & powerful text editor.
 </p>
 
 <br>
